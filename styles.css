@@ -1,0 +1,15 @@
+#form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  height: auto;
+  margin: auto;
+}
+
+.container .detmap {
+  display: flex;
+  justify-content: center;
+  align-items: end;
+  margin: auto;
+}
